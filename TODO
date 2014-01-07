@@ -1,0 +1,1 @@
+* Test presence of the `plumber` CLI and fail with a clear error if missing
