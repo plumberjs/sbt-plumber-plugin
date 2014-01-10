@@ -2,7 +2,7 @@ sbtPlugin := true
 
 name := "sbt-plumber-plugin"
 
-organization := "com.gu"
+organization := "cc.inso"
 
 version := "0.1"
 
